@@ -1,7 +1,7 @@
-mev-sandwitch-flashbot
+mev-sandwich-flashbot
 ================
-This is a fork of mev-sandwitch-bot, which was catered towards experimenting with MEV Sandwich attacks.
-This repository contains a simple, mechanical system for discovering, evaluating, rating, and submitting sandwitch opportunities to the Flashbots bundle endpoint. 
+This is a fork of mev-sandwich-bot, which was catered towards experimenting with MEV Sandwich attacks.
+This repository contains a simple, mechanical system for discovering, evaluating, rating, and submitting sandwich opportunities to the Flashbots bundle endpoint. 
 This script is very unlikely to be profitable anymore, as more and more users are doing this, and it is targeting well-known Ethereum opportunities.
 
 Back in the days it was profitable, but now it is not. It is left here for educational purposes.
