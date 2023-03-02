@@ -1,0 +1,7 @@
+/.idea
+/node_modules
+/build
+/tsconfig.tsbuildinfo
+txs.txt
+.env
+.DS_Store
